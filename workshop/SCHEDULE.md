@@ -49,7 +49,7 @@ The planned schedule for the May 2026 Data Lab Virtual Training Workshop "Introd
 |             | [Exercise: scRNA-seq cell type annotation](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_03-celltype.Rmd) | |
 | 5:00  PM    | *Adjourn for the day*             |
 | | |
-| **Day 5**   | **2025-06-15**  <br> _**Consultation and Presentations**_ |
+| **Day 5**   | **2026-05-15**  <br> _**Consultation and Presentations**_ |
 | 12:00 PM    | [Consultation sessions](workshop-logistics.md#consultation-sessions)  | [Slack channel](../software-setup/slack-procedures.md) |
 | 2:30 PM     | [Participant presentations begin](workshop-logistics.md#participant-presentations) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
 | 5:00 PM     | *Adjourn*   |
