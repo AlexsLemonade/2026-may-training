@@ -12,7 +12,7 @@ The planned schedule for the May 2026 Data Lab Virtual Training Workshop "Introd
 | Time        | Topic                             | Location |
 |-------------|--------------------------------------------|----------------|
 | **Day 1**   | **2026-05-11** <br> _**Introduction to R and the Tidyverse**_                 |
-| 12:00 PM    | Welcome, Introductions and Getting Started <br> [Workshop introduction slides (PDF)](#../slides/2026-05-11_course-intro-scRNA.pdf)  | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
+| 12:00 PM    | Welcome, Introductions and Getting Started <br> [Workshop introduction slides (PDF)](../slides/2026-05-11_course-intro-scRNA.pdf)  | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
 | 1:00 PM     | [Introduction to base R](../completed-notebooks/intro-to-R-tidyverse/01-intro_to_base_R.nb.html) <br> [Introduction to R, RStudio, and RStudio Server slides (PDF)](#../slides/2026-05-11_intro-to-r-rstudio.pdf) | Zoom: [Main Session](../software-setup/zoom-procedures.md)|
 | 2:30 PM     | [Introduction to `ggplot2`](../completed-notebooks/intro-to-R-tidyverse/02-intro_to_ggplot2.nb.html) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
 | 3:30 PM     | [Introduction to the `tidyverse`](../completed-notebooks/intro-to-R-tidyverse/03-intro_to_tidyverse.nb.html) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
