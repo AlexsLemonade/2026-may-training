@@ -25,7 +25,7 @@ The planned schedule for the May 2026 Data Lab Virtual Training Workshop "Introd
 | 5:00  PM    | *Adjourn for the day*             |
 | | |         |
 | **Day 2**   | **2026-05-12**  <br> _**Introduction to Single-cell RNA-seq, Day 1**_ |
-| 12:00 PM    | Introduction <br> [Introduction to scRNA-seq slides (PDF)](#../slides/2026-05-12_Intro_to_scRNA-seq.pdf) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
+| 12:00 PM    | Introduction <br> [Introduction to scRNA-seq slides (PDF)](../slides/2026-05-12_Intro_to_scRNA-seq.pdf) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
 | 12:30 PM    | [scRNA-seq quantification with Alevin](../completed-notebooks/scRNA-seq/01-scRNA_quant_qc.nb.html) | Zoom: [Main Session](../software-setup/zoom-procedures.md)|
 | 1:30 PM     | [Importing data and filtering cells](../completed-notebooks/scRNA-seq/02-filtering_scRNA.nb.html) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
 | 2:30 PM     | [Normalization of expression data](../completed-notebooks/scRNA-seq/03-normalizing_scRNA.nb.html) | Zoom: [Main Session](../software-setup/zoom-procedures.md) |
